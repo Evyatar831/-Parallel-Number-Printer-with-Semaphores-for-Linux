@@ -1,4 +1,4 @@
-# Parallel Number Printer with Semaphores for Linux
+ Semaphores for Linux
 
 This C program demonstrates parallel processing in Linux by printing numbers from 1 to 100 using 5 synchronized processes and POSIX semaphores.
 
